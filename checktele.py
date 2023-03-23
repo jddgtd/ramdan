@@ -250,7 +250,7 @@ async def _(event):
                         channel=ch, username=username))
                     await event.client.send_message(event.chat_id, f'''
 𓆩 Hello Pro New user on Ramadan !'
-⎱UserName: ❲(@username)❳
+⎱UserName: (@{username})
 ⎱by  : ❲ @O_0_9 ❳ ༒’
 ⎱ClickS: ❲ {trys} ❳
 ⎱CH  : ❲ @Y_U_8 ❳ ¥☆
@@ -313,7 +313,7 @@ async def _(event):
                             channel=ch, username=username))
                         await event.client.send_message(event.chat_id, f'''
 𓆩 Hello Pro New user on Ramadan !'
-⎱UserName: ❲(@username)❳
+⎱UserName: (@{username})
 ⎱by  : ❲ @O_0_9 ❳ ༒’
 ⎱ClickS: ❲ {trys} ❳
 ⎱CH  : ❲ @Y_U_8 ❳ ¥☆
@@ -350,7 +350,7 @@ async def _(event):
                     channel=ch, username=username))
                 await event.client.send_message(event.chat_id, f'''
 𓆩 Hello Pro New user on Ramadan !'
-⎱UserName: ❲(@username)❳
+⎱UserName: (@{username})
 ⎱by  : ❲ @O_0_9 ❳ ༒’
 ⎱ClickS: ❲ {trys} ❳
 ⎱CH  : ❲ @Y_U_8 ❳ ¥☆

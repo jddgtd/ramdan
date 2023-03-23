@@ -104,8 +104,7 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-** ⎱★ 𝙒𝙀𝙡𝘾𝙊𝙈𝙀 𝙏𝙊 𝙎𝙊𝙐𝙍𝘾𝙀 MAHMOUD 
-ππ{™™} ∆§∆§∆**:(RAMADAN):ππ
+** ⎱★ 𝙒𝙀𝙡𝘾𝙊𝙈𝙀 𝙏𝙊 𝙎𝙊𝙐𝙍𝘾𝙀 MAHMOUD:(RAMADAN):ππ
 ★ 𝙑𝙀𝙍 : 1.3
 ★ 𝙋𝙄𝙉𝙂 : {ms}
 ★ 𝘿𝘼𝙏𝙀 : {m9zpi}

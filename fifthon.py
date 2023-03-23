@@ -104,12 +104,15 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ سـورس حلم 
-☆ Version : 2.0
-☆ Ping : `{ms}`
-☆ Date : `{m9zpi}`
-☆ ID : `{event.sender_id}`
-☆ حبيبي دز الصيد بلكروب: @jnuun **
+** ⎱★ 𝙒𝙀𝙡𝘾𝙊𝙈𝙀 𝙏𝙊 𝙎𝙊𝙐𝙍𝘾𝙀 MAHMOUD 
+ππ{™™} ∆§∆§∆**:(RAMADAN):ππ
+★ 𝙑𝙀𝙍 : 1.3
+★ 𝙋𝙄𝙉𝙂 : {ms}
+★ 𝘿𝘼𝙏𝙀 : {m9zpi}
+★ 𝙄𝘿 : {event.sender_id}
+★⎱by  : ❲ @O_0_9 ❳ 
+★ ⎱CH: @Y_U_8
+★ 𝙒𝙀𝙡𝘾𝙊𝙈𝙀 **
 ''')
 
 
@@ -137,12 +140,18 @@ async def _(event):
     await event.edit(sec4)
 
     
-ownerhson_id = 1041483862
+ownerhson_id = 5103069813
 @fifthon.on(events.NewMessage(outgoing=False, pattern='/start'))
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownerhson_id :
-        order = await event.reply('●━━━━━━ @HLLAM ━━━━━━●')
+        order = await event.reply('⎱by  : ❲ @O_0_9 ❳  :
+⎱CH : ❲ @Y_U_8 ❳ :
+♡♡♡———♡♡♡
+𝙉𝘼𝙈𝙀 : MAHMOUD
+𝘼𝙂𝙀 : 14
+𝙇𝙄𝙑𝙀 : Egypt    
+§™™§ <teemfire>')
 
 
 @fifthon.on(events.NewMessage(outgoing=True, pattern=r"\.اعادة تشغيل"))

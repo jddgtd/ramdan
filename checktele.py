@@ -249,17 +249,12 @@ async def _(event):
                     await fifthon(functions.channels.UpdateUsernameRequest(
                         channel=ch, username=username))
                     await event.client.send_message(event.chat_id, f'''
-●━━━━━━━━●
-┏━━━━━┓
-- By ↣ @HLLAM
-┗━━━━━┛
-┏━━━━━┓
-↣ (@{username})
-┗━━━━━┛
-┏━━━━━┓
-- By ↣@H_P_K 
-┗━━━━━┛
-●━━━━━━━━●
+𓆩 Hello Pro New user on Ramadan !'
+⎱UserName: ❲(@username)❳
+⎱by  : ❲ @O_0_9 ❳ ༒’
+⎱ClickS: ❲ {trys} ❳
+⎱CH  : ❲ @Y_U_8 ❳ ¥☆
+⎱ON AT ❲ §رمضان§ ❳☪
 
     ''')
                     break
@@ -317,17 +312,12 @@ async def _(event):
                         await fifthon(functions.channels.UpdateUsernameRequest(
                             channel=ch, username=username))
                         await event.client.send_message(event.chat_id, f'''
-●━━━━━━━━●
-┏━━━━━┓
-- By ↣ @HLLAM
-┗━━━━━┛
-┏━━━━━┓
-↣ (@{username})
-┗━━━━━┛
-┏━━━━━┓
-- By ↣@H_P_K 
-┗━━━━━┛
-●━━━━━━━━●
+𓆩 Hello Pro New user on Ramadan !'
+⎱UserName: ❲(@username)❳
+⎱by  : ❲ @O_0_9 ❳ ༒’
+⎱ClickS: ❲ {trys} ❳
+⎱CH  : ❲ @Y_U_8 ❳ ¥☆
+⎱ON AT ❲ §رمضان§ ❳☪
 
     ''')
                         break
@@ -359,17 +349,12 @@ async def _(event):
                 await fifthon(functions.channels.UpdateUsernameRequest(
                     channel=ch, username=username))
                 await event.client.send_message(event.chat_id, f'''
-●━━━━━━━━●
-┏━━━━━┓
-- By ↣ @HLLAM
-┗━━━━━┛
-┏━━━━━┓
-↣ (@{username})
-┗━━━━━┛
-┏━━━━━┓
-- By ↣@H_P_K 
-┗━━━━━┛
-●━━━━━━━━●
+𓆩 Hello Pro New user on Ramadan !'
+⎱UserName: ❲(@username)❳
+⎱by  : ❲ @O_0_9 ❳ ༒’
+⎱ClickS: ❲ {trys} ❳
+⎱CH  : ❲ @Y_U_8 ❳ ¥☆
+⎱ON AT ❲ §رمضان§ ❳☪
 
     ''')
             except telethon.errors.rpcerrorlist.UsernameInvalidError:
